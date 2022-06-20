@@ -1,7 +1,8 @@
-# XGBoost-in-StockPricePredict2330
-# Stock Price Predict 2330
+`XGBoost`  `VSCode` 
+# Stock Price Predict in 2330  
+* NOTE : 記得資料檔案和.py要放在同一個資料夾
 
-* 下載資料
+* 股票資料下載 (https://finance.yahoo.com/quote/2330.TW?p=2330.TW&.tsrc=fin-srch)
 * 步驟
   * 第一步：獲取數據
   * 第二步：特徵工程
@@ -11,7 +12,9 @@
   * 第六步：建立樣本
   * 第七步：開始訓練
   * 第八步：結果
+
     ```
     結果呈現如下
     ``` 
 ![image](https://github.com/noopy523/XGBoost-in-StockPricePredict2330/blob/main/result.jpg))
+
